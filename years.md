@@ -12,4 +12,6 @@ permalink: /years/
 • 2010. 03 ~ 2016. 02 수원대학교 경영학과 졸업  
 • 2007. 03 ~ 2010. 02 안산 강서고등학교 졸업  
   
+| Midnight | ![profile](profile.jpeg) |
+  
 
