@@ -1,5 +1,6 @@
 ---
 layout: archive-years
+scss: variables
 title: Years
 permalink: /years/
 ---
