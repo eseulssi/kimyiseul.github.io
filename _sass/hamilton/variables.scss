@@ -15,6 +15,12 @@ $on-small:          600px !default;
 $on-medium:         900px !default;
 $on-large:          1100px !default;
 
+body {
+    font-family: $base-font-family;
+    font-size: $base-font-size;
+    line-height: $base-line-height;
+}
+
 // // Fonts
 // $base-font-family: "Open Sans", "Sunflower Korean", "Noto Sans Korean" !default;
 // $reading-font-family: "Roboto Slab", "Noto Serif SC", "Noto Serif TC", "Sunflower Korean", "Noto Sans Korean" !default;
