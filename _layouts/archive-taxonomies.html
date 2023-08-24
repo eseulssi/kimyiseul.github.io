@@ -10,7 +10,7 @@ layout: page
 {%- elsif page.type == 'tags' -%}
   {%- assign taxonomies = site.tags -%}
 {%- else -%}
-  {%- assign taxonomies = none -%}
+  {%- assign taxonomies = "" -%}
 {%- endif -%}
 
 {% comment %} Calculate the max count of taxonomies {% endcomment %}
@@ -23,10 +23,6 @@ layout: page
 {%- endfor -%}
 
 <a href="#" onclick="backToTop()" class="back-to-top">Top &#8648;</a>
-
-{% comment %} Missing endif here {% endcomment %}
-{%- endif -%}
-{%- endfor -%}
 
 <script>
   function backToTop() {
