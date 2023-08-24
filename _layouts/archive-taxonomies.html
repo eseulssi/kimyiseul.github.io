@@ -22,9 +22,10 @@ layout: page
   {%- endif -%}
 {%- endfor -%}
 
-      <a href="#" onclick="backToTop()" class="back-to-top">Top &#8648;</a>
-    {%- endif -%}
-  {%- endfor -%}
+<a href="#" onclick="backToTop()" class="back-to-top">Top &#8648;</a>
+
+{% comment %} Missing endif here {% endcomment %}
+{%- endif -%}
 {%- endfor -%}
 
 <script>
