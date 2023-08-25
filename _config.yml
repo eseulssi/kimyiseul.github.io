@@ -5,13 +5,13 @@ avatar: /profile.jpeg
 email: eeeeeseulllll@naver.com
 phone: 010.7141.4543
 
-plugins:
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate
+# plugins:
+#   - jekyll-seo-tag
+#   - jekyll-feed
+#   - jekyll-sitemap
+#   - jekyll-paginate
 
-paginate: 10
+# paginate: 10
 
 # Uncomment the below line and set the tracking ID for enabling Google Analytics
 # 
