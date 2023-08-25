@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <style>
     p {
-        font-family: 'Sunflower-Bold', sans-serif;
+        font-family: "BMJUA";
     }
 </style>
 <div>
