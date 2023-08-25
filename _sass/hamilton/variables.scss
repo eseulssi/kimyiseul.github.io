@@ -5,8 +5,8 @@ $sans-serif: $customFont, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI
 $monospace: $customFont, Monaco, Consolas, "Lucida Console", monospace !default;
 
 
-// // Fonts
-// $base-font-family: "Sunflower" !default;
+// Fonts
+$base-font-family: $customFont;
 $reading-font-family: $customFont;
 $headline-font-family: $customFont;
 $code-font-family:  Inconsolata !default;
