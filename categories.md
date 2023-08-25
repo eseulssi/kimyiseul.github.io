@@ -6,11 +6,11 @@ permalink: /projects/
 ---  
  
 <div class="taxonomies-wrapper">
-  <ul class="taxonomies"><li><a class="taxonomy" href="/projects/#wwc">
+  <ul class="taxonomies"><li><a class="taxonomy" href="#wwc">
               <span>W W C</span>
               <span class="taxonomy-count">1</span>
             </a>
-          </li><li><a class="taxonomy" href="/projects/#potion">
+          </li><li><a class="taxonomy" href="#potion">
               <span>potion shop</span>
               <span class="taxonomy-count">1</span>
             </a>
