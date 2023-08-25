@@ -5,17 +5,6 @@ title: Projects
 permalink: /projects/
 ---  
  
-<div class="taxonomies-wrapper">
-  <ul class="taxonomies"><li><a class="taxonomy" href="/projects/#wwc">
-              <span>W W C</span>
-              <span class="taxonomy-count">1</span>
-            </a>
-          </li><li><a class="taxonomy" href="/projects/#potion">
-              <span>potion shop</span>
-              <span class="taxonomy-count">1</span>
-            </a>
-          </li></ul>
-</div>
 <div>
 <h2 id="misc">wwc</h2>
       <ul class="post-list-by-taxonomy">
@@ -26,7 +15,8 @@ permalink: /projects/
 <h2 id="junk">potion</h2>
       <ul class="post-list-by-taxonomy">
           <li>
-            <time datetime="">2023-09-11</time> &raquo; <a href="/projects/2023/09/11/potion.html">This post demonstrates post content styles</a>
+            <time datetime="">2023-07-14</time> &raquo; <a href="#about">
+            This post demonstrates post content styles
           </li>
       </ul>
       <a href="#" onclick="backToTop()" class="back-to-top">Top &#8648;</a>
