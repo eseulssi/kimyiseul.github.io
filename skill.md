@@ -5,6 +5,6 @@ permalink: /skill/
 ---
 
 
-| (html5.png) | HTML |
-| (square-js.png) | JavaScript |
-| (java.png) | Java |
+| ![screenshot](html5.png) | HTML |
+| ![screenshot](square-js.png) | JavaScript |
+| ![screenshot](java.png) | Java |
