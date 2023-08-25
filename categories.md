@@ -8,7 +8,7 @@ permalink: /projects/
 <div class="taxonomies-wrapper">
   <ul class="taxonomies"><li><a class="taxonomy" href="/projects/#wwc">
               <span>W W C</span>
-              <span class="taxonomy-count">2</span>
+              <span class="taxonomy-count">1</span>
             </a>
           </li><li><a class="taxonomy" href="/projects/#potion">
               <span>potion shop</span>
@@ -18,16 +18,17 @@ permalink: /projects/
 </div>
 <div>
 <h2 id="misc">wwc</h2>
-      <ul class="post-list-by-taxonomy"><li>
-            <time datetime="">2016-05-20</time> &raquo; <a href="/misc/2016/05/20/super-long-article.html">Some articles are just so long they deserve a really long title to see if things will break well</a>
-          </li><li>
-            <time datetime="">2016-05-19</time> &raquo; <a href="/misc/2016/05/19/super-short-article.html">Some articles are just so short that we have to make the footer stick</a>
-          </li></ul>
-      <a href="#" onclick="backToTop()" class="back-to-top">Top &#8648;</a>
+      <ul class="post-list-by-taxonomy">
+          <li>
+            <time datetime="">2023-09-11</time> &raquo; <a href="/misc/2016/05/20/super-long-article.html">World Wide Chat</a>
+          </li>
+      </ul>
 <h2 id="junk">potion</h2>
-      <ul class="post-list-by-taxonomy"><li>
-            <time datetime="">2016-05-20</time> &raquo; <a href="/projects/2023/09/11/potion.html">This post demonstrates post content styles</a>
-          </li></ul>
+      <ul class="post-list-by-taxonomy">
+          <li>
+            <time datetime="">2023-09-11</time> &raquo; <a href="/projects/2023/09/11/potion.html">This post demonstrates post content styles</a>
+          </li>
+      </ul>
       <a href="#" onclick="backToTop()" class="back-to-top">Top &#8648;</a>
 </div>
 
