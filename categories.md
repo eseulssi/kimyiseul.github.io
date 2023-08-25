@@ -6,7 +6,7 @@ permalink: /projects/
 ---  
  
 <div class="taxonomies-wrapper">
-  <ul class="taxonomies"><li><a class="taxonomy" href="kimyiseul.github.io/projects/potion.html">
+  <ul class="taxonomies"><li><a class="taxonomy" href="/potion.html">
               <span>W W C</span>
             </a>
           </li><li><a class="taxonomy" href="/categories/#junk">
