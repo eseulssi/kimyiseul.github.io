@@ -6,8 +6,8 @@ permalink: /projects/
 ---  
  
 <div class="taxonomies-wrapper">
-  <ul class="taxonomies"><li><a class="taxonomy" href="#wwc">
-              <span>W W C</span>
+  <ul class="taxonomiess"><li><a class="taxonomy" href="#wwc">
+              <span>WWC</span>
               <span class="taxonomy-count">chatting platform</span>
             </a>
           </li><li><a class="taxonomy" href="#potion">
