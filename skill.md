@@ -4,7 +4,7 @@ title: Skill
 permalink: /skill/
 ---
 
+- ![HTML](html5.svg) HTML 
+- ![JavaScript](square-js.svg) JavaScript 
+- ![Java](java.svg) Java 
 
-| ![screenshot](html5.png) | HTML |
-| ![screenshot](square-js.png) | JavaScript |
-| ![screenshot](java.png) | Java |
