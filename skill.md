@@ -4,12 +4,7 @@ title: Skill
 permalink: /skill/
 ---
 
-| | |
-| --- | --- |
-| ![HTML](html5.svg) HTML | ![JavaScript](square-js.svg) JavaScript |
-| ![Java](java.svg) Java | |
+| ![HTML](html.png)   HTML | ![JavaScript](javascript.png)    JavaScript | ![CSS](css.png)    CSS| ![Thymeleaf](Thymeleaf.png)    Thymeleaf|
+| ![Java](java.png)   Java | ![SpringBoot](springboot.png)    SpringBooot | ![JPA](JPA.png)    JPA|
 
-- ![HTML](html5.svg) HTML 
-  - ![JavaScript](square-js.svg) JavaScript 
-- ![Java](java.svg) Java 
 
