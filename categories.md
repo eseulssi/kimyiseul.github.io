@@ -6,7 +6,7 @@ permalink: /projects/
 ---  
  
 <div class="taxonomies-wrapper">
-  <ul class="taxonomies"><li><a class="taxonomy" href="#projects">
+  <ul class="taxonomies"><li><a class="taxonomy" href="#projects/2023/09/11/potion.html">
               <span>W W C</span>
             </a>
           </li><li><a class="taxonomy" href="/categories/#junk">
