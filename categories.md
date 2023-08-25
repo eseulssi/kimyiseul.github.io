@@ -20,7 +20,6 @@ permalink: /projects/
 <h2 id="wwc">wwc</h2>
       <ul class="post-list-by-taxonomy">
           <li>
-            <time datetime="">2023-09-11</time> &raquo; <a href="/misc/2016/05/20/super-long-article.html">World Wide Chat</a>
           </li>
       </ul>
 </div>
@@ -29,9 +28,24 @@ permalink: /projects/
 <br><br><br><br><br><br><br><br>
 <div>
 <h2 id="potion">potion</h2>
-      <ul class="post-list-by-taxonomy"><li>
-            <time datetime="">2023-09-11</time> &raquo; <a href="/projects/2023/09/11/potion.html">This post demonstrates post content styles</a>
-          </li>
+      <ul class="post-list-by-taxonomy">
+          <li>
+            <img src="/potion.gif" width="650px" height="400px">
+        [`github 바로가기`](https://github.com/three-team1/main/tree/main) 
+        - 초능력을 판매하는 쇼핑몰 '포션이었다' (2023.06 ~ 2023.07)
+    </li>
+    <li>
+        ![gif](qna.gif){: width="650px" height="400px"}
+        - qna게시판
+    </li>
+    <li>
+        ![gif](cart.gif){: width="650px" height="400px"} 
+        - 장바구니 & 결제페이지
+    </li>
+    <li>
+        ![gif](payment.gif){: width="650px" height="400px"} 
+        - 결제
+    </li>
       </ul>
       <a href="#" onclick="backToTop()" class="back-to-top">Top &#8648;</a>
 </div>
