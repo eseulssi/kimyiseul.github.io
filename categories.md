@@ -8,11 +8,11 @@ permalink: /projects/
 <div class="taxonomies-wrapper">
   <ul class="taxonomies"><li><a class="taxonomy" href="#wwc">
               <span>W W C</span>
-              <span class="taxonomy-count">1</span>
+              <span class="taxonomy-count">chatting</span>
             </a>
           </li><li><a class="taxonomy" href="#potion">
               <span>potion shop</span>
-              <span class="taxonomy-count">1</span>
+              <span class="taxonomy-count">shopping mall</span>
             </a>
           </li></ul>
 </div>
@@ -23,6 +23,11 @@ permalink: /projects/
             <time datetime="">2023-09-11</time> &raquo; <a href="/misc/2016/05/20/super-long-article.html">World Wide Chat</a>
           </li>
       </ul>
+</div>
+<br>
+<br>
+<br><br><br><br><br><br><br><br>
+<div>
 <h2 id="potion">potion</h2>
       <ul class="post-list-by-taxonomy"><li>
             <time datetime="">2023-09-11</time> &raquo; <a href="/projects/2023/09/11/potion.html">This post demonstrates post content styles</a>
