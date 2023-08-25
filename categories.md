@@ -5,21 +5,16 @@ title: Projects
 permalink: /projects/
 ---  
  
-<div>
-<h2 id="misc">wwc</h2>
-      <ul class="post-list-by-taxonomy">
-          <li>
-            <time datetime="">2023-09-11</time> &raquo; <a href="/misc/2016/05/20/super-long-article.html">World Wide Chat</a>
-          </li>
-      </ul>
-<h2 id="junk">potion</h2>
-      <ul class="post-list-by-taxonomy">
-          <li>
-            <time datetime="">2023-07-14</time> &raquo; <a href="#about">
-            This post demonstrates post content styles
-          </li>
-      </ul>
-      <a href="#" onclick="backToTop()" class="back-to-top">Top &#8648;</a>
+<div class="taxonomies-wrapper">
+  <ul class="taxonomies"><li><a class="taxonomy" href="/wwc.html">
+              <span>W W C</span>
+              <span class="taxonomy-count"></span>
+            </a>
+          </li><li><a class="taxonomy" href="/potion.html">
+              <span>potion shop</span>
+              <span class="taxonomy-count"></span>
+            </a>
+          </li></ul>
 </div>
 
 ![gif](potion.gif){: width="650px" height="400px"}  
