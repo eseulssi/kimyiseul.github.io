@@ -1,6 +1,6 @@
 ---
 layout: archive-taxonomies
-type: projects
+type: categories
 title: Projects
 permalink: /projects/
 ---  
