@@ -11,7 +11,7 @@ permalink: /projects/
               <span class="taxonomy-count">chatting platform</span>
             </a>
           </li><li><a class="taxonomy" href="#potion">
-              <span>potion shop</span>
+              <span>Potion Shop</span>
               <span class="taxonomy-count">shopping mall</span>
             </a>
           </li></ul>
