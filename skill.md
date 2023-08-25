@@ -8,7 +8,7 @@ permalink: /skill/
 | ![jQuery](jQuery.png) jQuery | ![Thymeleaf](Thymeleaf.png)  Thymeleaf| ![JPA](JPA.png)  JPA | ![MyBatis](MyBatis.png)  MyBatis |
 | ![SpringBoot](springboot.jpeg)  SpringBoot | ![springframework](springframework.png)  SpringFramework | ![SpringSecurity](SpringSecurity.png)  Spring Security | ![websocket](Websocket.png) websocket |
 | ![Oracle](Oracle.png)  Oracle | ![Mysql](Mysql.png)  MySQL | ![ncloud](ncloud.jpeg)  Naver Cloud | ![Apache](apache.png) Apache 
-| ![intellij](intellij.jpeg)  Intellij| ![vscode](vscode.png)  VS Code | ![Gradle](Gradle.png)  Gradle | ![Git](Git.png)  Git 
+| ![intellij](intellij.jpeg)  Intellij| ![vscode](vscode.png)  VS Code | ![Gradle](Gradle.png)  Gradle | ![Git](Git.png)  Git  
 
 
 
