@@ -1,3 +1,8 @@
+$sans-serif: 'Noto Sans KR';
+$monospace: 'Ubuntu Mono';
+$type-size-4-5: 1.12em !default; // Ubuntu Mono is a bit small
+
+
 @charset "utf-8";
 
 @import 
@@ -10,9 +15,11 @@
   "hamilton/custom-styles"
 ;
 
-@font-face {
-  font-family: 'BMJUA';
-  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/BMJUA.woff');
-  font-weight: normal;
-  font-style: normal;
-}
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans+KR|Ubuntu+Mono);
+
+// @font-face {
+//   font-family: 'BMJUA';
+//   src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/BMJUA.woff');
+//   font-weight: normal;
+//   font-style: normal;
+// }
