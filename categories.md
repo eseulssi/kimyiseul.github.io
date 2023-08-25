@@ -9,3 +9,4 @@ permalink: /projects/
 [`github 바로가기`](https://github.com/three-team1/main/tree/main) 
   
 - 초능력을 판매하는 쇼핑몰 '포션이었다' (2023.06 ~ 2023.07)
+- 우왕
