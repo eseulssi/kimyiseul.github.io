@@ -16,7 +16,7 @@ permalink: /projects/
             </a>
           </li></ul>
 </div>
-
+<div>
 <h2 id="misc">wwc</h2>
       <ul class="post-list-by-taxonomy"><li>
             <time datetime="">2016-05-20</time> &raquo; <a href="/misc/2016/05/20/super-long-article.html">Some articles are just so long they deserve a really long title to see if things will break well</a>
@@ -28,8 +28,9 @@ permalink: /projects/
       <ul class="post-list-by-taxonomy"><li>
             <time datetime="">2016-05-20</time> &raquo; <a href="/projects/2023/09/11/potion.html">This post demonstrates post content styles</a>
           </li></ul>
-      <a href="#" onclick="backToTop()" class="back-to-top">Top &#8648;</a><script>
-        
+      <a href="#" onclick="backToTop()" class="back-to-top">Top &#8648;</a>
+</div>
+
 ![gif](potion.gif){: width="650px" height="400px"}  
 [`github 바로가기`](https://github.com/three-team1/main/tree/main) 
 - 초능력을 판매하는 쇼핑몰 '포션이었다' (2023.06 ~ 2023.07)
