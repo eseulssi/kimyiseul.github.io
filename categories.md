@@ -5,8 +5,5 @@ title: Projects
 permalink: /projects/
 ---
 
-|![image](potion.png){: width="650px" height="300px"}|
-
-| - 안녕~~~~~ |
-| 안녕하세요. |
-| - 안녕~~~~~ |
+![image](potion.png){: width="650px" height="400px"}
+- 초능력 쇼핑몰 '포션이었다'
