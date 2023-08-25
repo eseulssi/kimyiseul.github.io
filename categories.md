@@ -1,6 +1,6 @@
 ---
 layout: archive-taxonomies
-scss: custom-styless
+scss: custom-styles
 type: projects
 title: Projects
 permalink: /projects/
