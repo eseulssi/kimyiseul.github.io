@@ -6,5 +6,5 @@ title: Projects
 permalink: /projects/
 ---
 
-|<img src="/assets/포션이었다.png" width="600" height="300">|
+|<img src="potion.png" width="600" height="300">|
 |안녕~~~~~|
