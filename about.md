@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Backend Engineer, Web Developer
+title: Backend Engineer  
+Web Developer 
 permalink: /about/
 ---
 
