@@ -37,6 +37,7 @@ qna게시판<br/>
 ![gif](payment.gif){: width="650px" height="400px"}<br/>  
 결제<br/> 
 
+<hr>
 <h2 class = "center-text" id="potion">potion</h2>
 
 ![gif](potion.gif){: width="650px" height="400px"}  
