@@ -32,7 +32,7 @@ permalink: /projects/
 <p class = "center-text">&#128071; my role &#128071;</p> 
 
 ![gif](cateChat.gif){: width="650px" height="400px"}<br/> 
-<p class = "center-text">단체 관심사 채팅(category chat)</p>  
+<p class = "center-text">&#128204; 단체 관심사 채팅(category chat)</p>  
 
 - 총 열 세 개의 카테고리 별 채팅방 분류
 - 방 이름, 최대 인원수, 카테고리 선정 후 채팅방 개설 가능
@@ -40,7 +40,7 @@ permalink: /projects/
 - 입장 시 '입장 메시지' 표출
 
 ![gif](cateChatting.gif){: width="650px" height="400px"}<br/>
-<p class = "center-text">실시간 메시지 전송 & 자동 번역</p>
+<p class = "center-text">&#128204; 실시간 메시지 전송 & 자동 번역</p>
 
 - 웹소켓을 이용한 실시간 메시지 전송 가능
 - 언어 설정 시, 상대 유저의 언어를 자동으로 감지하여 내가 설정한 언어로 자동 번역
@@ -49,12 +49,12 @@ permalink: /projects/
 
 
 ![gif](pay.gif){: width="650px" height="400px"}<br/>
-<p class = "center-text">파일 전송 & 다운로드</p>
+<p class = "center-text">&#128204; 파일 전송 & 다운로드</p>
 
 - 웹소켓을 이용한 실시간 파일 전송 가능
 - 전송한 파일은 ncloud의 object storage에 저장
 - 파일 다운로드 가능
-
+<hr>
 <p class = "center-text">&#128221; 프로젝트를 진행하며 느낀 점</p>
 
 - 프론트엔드와 백엔드로 나눠 작업하면서 백엔드 개발에만 집중할 수 있었지만, 초기에는 표출 값을 Postman을 통해 확인하는 작업이 생소했습니다. 그러나 React를 사용하는 프론트엔드와의 첫 협업이었기 때문에 코드 전달과 소통 방식을 어떻게 해야 서로가 편하게 협력할 수 있는지를 배우는 시간이었습니다.
@@ -71,7 +71,7 @@ permalink: /projects/
 <p class = "center-text">&#128071; my role &#128071;</p>  
 
 ![gif](qna.gif){: width="650px" height="400px"}   
-<p class = "center-text">QNA 게시판</p>
+<p class = "center-text">&#128204; QNA 게시판</p>
 
 - CRUD 기능 구현 
 - 게시글 제목과 해당 게시글의 댓글 갯수를 같이 표출
@@ -79,7 +79,7 @@ permalink: /projects/
 - 제목과 내용으로 게시글 검색 가능 
 
 ![gif](cart.gif){: width="650px" height="400px"}<br/>
-<p class = "center-text">장바구니</p>
+<p class = "center-text">&#128204; 장바구니</p>
 
 - 전체 주문/선택 주문에 다른 상품 개수와 총 금액 표출
 - +, -으로 수량 조절
@@ -88,14 +88,14 @@ permalink: /projects/
 - 주문하기 버튼 클릭 시 결제페이지로 이동
 
 ![gif](pay.gif){: width="650px" height="400px"}<br/>
-<p class = "center-text">결제페이지</p>
+<p class = "center-text">&#128204; 결제페이지</p>
 
 - 내 배송지 입력 버튼 클릭 시 회원가입 시 입력한 회원 정보를 자동으로 불러옴
 - 배송지 정보 직접 입력 가능
 - 이전 장바구니 페이지에서 주문한 상품과 수량, 금액 표시
 - 카드 결제 가능
 - 결제하기 버튼을 누르면 결제창으로 이동(아임포트 api - NHN KCP 사용)
-
+<hr>
 <p class = "center-text">&#128221; 프로젝트를 진행하며 느낀 점</p>
 
 - 프로젝트를 기능별로 나눠 작업했기 때문에 HTML, CSS, Spring Boot 등을 골고루 사용해야 했습니다. 특히 첫 프로젝트였기 때문에 컨벤션과 규칙을 정하는 데 일부 부족한 부분이 있었습니다.
