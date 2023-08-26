@@ -13,16 +13,16 @@ permalink: /projects/
 <div class="taxonomies-wrapper">
   <ul class="taxonomies">
     <li><a class="taxonomy" href="#wwc">
-      <div class="center-text">WWC</span>
+      <span>WWC</span>
       <span class="taxonomy-count">chatting platform</span>
     </a></li>
     <li><a class="taxonomy" href="#potion">
-      <div class="center-text">Potion Shop</span>
+      <span>Potion Shop</span>
       <span class="taxonomy-count">shopping mall</span>
     </a></li>
   </ul>
 </div>
-  <h2 id="wwc">wwc</h2>
+  <h2 class = "center-text" id="wwc">wwc</h2>
 
 ![gif](potion.gif){: width="650px" height="400px"}<br/>  
 [`github 바로가기`](https://github.com/bonugg/WorldChatProject)<br/> 
@@ -31,13 +31,13 @@ permalink: /projects/
 ![gif](qna.gif){: width="650px" height="400px"}<br/> 
 qna게시판<br/>
 ![gif](cart.gif){: width="650px" height="400px"}<br/>
-장바구니<br/>
+장바구니<br/> 
 ![gif](pay.gif){: width="650px" height="400px"}<br/>
-결제페이지<br/>
+결제페이지<br/> 
 ![gif](payment.gif){: width="650px" height="400px"}<br/>  
 결제<br/> 
 
-<h2 id="potion">potion</h2>
+<h2 class = "center-text" id="potion">potion</h2>
 
 ![gif](potion.gif){: width="650px" height="400px"}  
 [`github 바로가기`](https://github.com/three-team1/main/tree/main)   
@@ -46,9 +46,9 @@ qna게시판<br/>
 ![gif](qna.gif){: width="650px" height="400px"}   
 qna게시판   
 ![gif](cart.gif){: width="650px" height="400px"}<br/>
-장바구니<br/>
+장바구니<br/> 
 ![gif](pay.gif){: width="650px" height="400px"}<br/>
-결제페이지<br/>
+결제페이지<br/> 
 ![gif](payment.gif){: width="650px" height="400px"}    
 결제    
   
