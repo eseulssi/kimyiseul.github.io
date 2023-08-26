@@ -9,7 +9,7 @@ permalink: /projects/
   text-align: center;
 }
 </style>
-
+ 
 <div class="taxonomies-wrapper">
   <ul class="taxonomies">
     <li><a class="taxonomy" href="#wwc">
@@ -29,8 +29,8 @@ permalink: /projects/
 [`github 바로가기`](https://github.com/bonugg/WorldChatProject)<br/>   
   
 ![gif](potion.gif){: width="650px" height="400px"}<br/>  
-<p class = "center-text">메인화면</p>
-
+<p class = "center-text">메인화면</p>  
+  
 ![gif](qna.gif){: width="650px" height="400px"}<br/> 
 qna게시판<br/>
 ![gif](cart.gif){: width="650px" height="400px"}<br/>
