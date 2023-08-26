@@ -48,7 +48,7 @@ qna게시판<br/>
 [`github 바로가기`](https://github.com/three-team1/main/tree/main)<br/>   
     
 ![gif](potion.gif){: width="650px" height="400px"}   
-<p class = "center-text">&#128071;[my role]&#128071;</p>  
+<p class = "center-text">&#128071; my role &#128071;</p>  
 
 ![gif](qna.gif){: width="650px" height="400px"}   
 qna게시판   
