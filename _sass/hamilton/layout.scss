@@ -354,7 +354,7 @@ ul.social-icons {
 }
 
 .post-list {
-  font-family: $headline-font-family;
+  font-family: "BMJUA otf";
   margin-left: 0;
   padding-left: 0;
   list-style: none;
@@ -503,7 +503,7 @@ ul.post-categories {
 .post-title,
 .post-content h1 {
   @include relative-font-size(1.8);
-  font-family: $headline-font-family;
+  font-family: "BMJUA otf";
   font-weight: bold;
   letter-spacing: -1px;
   line-height: $base-line-height * $base-font-size * 2;
