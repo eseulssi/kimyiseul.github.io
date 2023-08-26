@@ -28,10 +28,10 @@ permalink: /projects/
  
 [`github 바로가기`](https://github.com/bonugg/WorldChatProject)<br/>   
   
-![gif](wwcmain.gif){: width="650px" height="400px"}<br/>  
+![gif](wwcmain.gif){: width="700px" height="400px"}<br/>  
 <p class = "center-text">&#128071; my role &#128071;</p> 
 
-![gif](cateChat.gif){: width="650px" height="400px"}<br/> 
+![gif](cateChat.gif){: width="700px" height="400px"}<br/> 
 <p class = "center-text">&#128204; 단체 관심사 채팅(category chat)</p>  
 
 - 총 열 세 개의 카테고리 별 채팅방 분류
@@ -39,7 +39,7 @@ permalink: /projects/
 - 채팅방을 개설한 유저(방장)은 채팅방 자동 입장
 - 입장 시 '입장 메시지' 표출
 
-![gif](cateChatting.gif){: width="650px" height="400px"}<br/>
+![gif](cateChatting.gif){: width="700px" height="400px"}<br/>
 <p class = "center-text">&#128204; 실시간 메시지 전송 & 자동 번역</p>
 
 - 웹소켓을 이용한 실시간 메시지 전송 가능
@@ -48,7 +48,7 @@ permalink: /projects/
 - 여러 언어가 오가는 단체 채팅 특성 상, 자동 번역 기능이 유용할 것으로 예상
 
 
-![gif](pay.gif){: width="650px" height="400px"}<br/>
+![gif](pay.gif){: width="700px" height="400px"}<br/>
 <p class = "center-text">&#128204; 파일 전송 & 다운로드</p>
 
 - 웹소켓을 이용한 실시간 파일 전송 가능
@@ -68,10 +68,10 @@ permalink: /projects/
 
 [`github 바로가기`](https://github.com/three-team1/main/tree/main)<br/>   
     
-![gif](potion.gif){: width="650px" height="400px"}<br/>
+![gif](potion.gif){: width="700px" height="400px"}<br/>
 <p class = "center-text">&#128071; my role &#128071;</p>  
 
-![gif](qna.gif){: width="650px" height="400px"}   
+![gif](qna.gif){: width="700px" height="400px"}   
 <p class = "center-text">&#128204; QNA 게시판</p>
 
 - CRUD 기능 구현 
@@ -79,7 +79,7 @@ permalink: /projects/
 - 새로고침 시 조회수 상승 방지 기능
 - 제목과 내용으로 게시글 검색 가능 
 
-![gif](cart.gif){: width="650px" height="400px"}<br/>
+![gif](cart.gif){: width="700px" height="400px"}<br/>
 <p class = "center-text">&#128204; 장바구니</p>
 
 - 전체 주문/선택 주문에 다른 상품 개수와 총 금액 표출
@@ -88,7 +88,7 @@ permalink: /projects/
 - 장바구니 물품 삭제 가능
 - 주문하기 버튼 클릭 시 결제페이지로 이동
 
-![gif](pay.gif){: width="650px" height="400px"}<br/>
+![gif](pay.gif){: width="700px" height="400px"}<br/>
 <p class = "center-text">&#128204; 결제페이지</p>
 
 - 내 배송지 입력 버튼 클릭 시 회원가입 시 입력한 회원 정보를 자동으로 불러옴
