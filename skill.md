@@ -102,7 +102,8 @@ body {
                         <span>80%</span>
                         </div>
                     </div>
-                    객체지향 프로그래밍에 대해 이해하고 있습니다. Java에서 제공하는 클래스와 메소드를 적절하게 사용할 수 있습니다.
+                    객체지향 프로그래밍에 대해 이해하고 있습니다.  
+                    Java에서 제공하는 클래스와 메소드를 적절하게 사용할 수 있습니다.
                 </div>
             </div>
             <div class="col-md-6">
@@ -114,7 +115,8 @@ body {
                         <span>80%</span>
                         </div>
                     </div>
-                    Spring으로 REST API를 활용하여 웹 서비스를 개발하였습니다. 스프링 데이터 JPA를 활용할 수 있습니다.
+                    Spring으로 REST API를 활용하여 웹 서비스를 개발하였습니다.  
+                    스프링 데이터 JPA를 활용할 수 있습니다.
                 </div>
             </div>
             <div class="col-md-6">
@@ -126,7 +128,8 @@ body {
                         <span>70%</span>
                         </div>
                     </div>
-                    Websockt과 Stomp를 활용해 채팅 프로그램을 구현했습니다. 웹소켓을 이용한 실시간 로직을 이해하고 있습니다.
+                    Websockt과 Stomp를 활용해 채팅 프로그램을 구현했습니다.  
+                    웹소켓을 이용한 실시간 로직을 이해하고 있습니다.
                 </div>
             </div>
             <div class="col-md-6">
@@ -138,7 +141,8 @@ body {
                         <span>70%</span>
                         </div>
                     </div>
-                    HTML 페이지를 설계하고 Thymeleaf 문법을 이용할 수 있습니다. CSS로 원하는 스타일을 만들 수 있습니다.
+                    HTML 페이지를 설계하고 Thymeleaf 문법을 이용할 수 있습니다.  
+                    CSS로 원하는 스타일을 만들 수 있습니다.
                 </div>
             </div>
             <div class="col-md-6">
@@ -150,7 +154,8 @@ body {
                         <span>50%</span>
                         </div>
                     </div>
-                    JavaScript, JQuery를 활용해서 몇가지 이벤트를 만들 수 있고 Ajax를 활용해서 서버와 비동기 통신하여 데이터를 분할하여 읽어오는 방법을 구현했습니다.
+                    JavaScript, JQuery를 활용해서 몇가지 이벤트를 만들 수 있고, Ajax를 활용해서  
+                    서버와 비동기 통신하여 데이터를 분할하여 읽어오는 방법을 구현했습니다.
                 </div>
             </div>
             <div class="col-md-6">
@@ -162,7 +167,9 @@ body {
                         <span>90%</span>
                         </div>
                     </div>
-                    GitHub를 활용해서 프로젝트를 관리하고 커밋을 세분화하는 훈련을 했습니다. GitHub을 활용한 소스코드 버전 관리 및 협업을 할 수 있습니다. GitHub blog를 운영할 수 있습니다.
+                    GitHub를 활용해서 프로젝트를 관리하고 커밋을 세분화하는 훈련을 했습니다.  
+                    GitHub을 활용한 소스코드 버전 관리 및 협업을 할 수 있습니다.  
+                    GitHub blog를 운영할 수 있습니다.
                 </div>
             </div>
             <div class="col-md-6">
