@@ -12,6 +12,18 @@ body {
     line-height: 1.8;
     color: rgba(0, 0, 0, 0.7);
 }
+.progress {
+    height: 6px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background: #f2f3f7;
+    overflow: visible;
+}
+.progress-wrap h3 {
+    font-size: 16px;
+    font-family: "Quicksand", Arial, sans-serif;
+    margin-bottom: 10px;
+}
 .progress-bar.color-1 {
     background: #2c98f0;
 }
@@ -46,6 +58,7 @@ body {
     -o-transition: width 0.6s ease;
     transition: width 0.6s ease;
 }
+
 </style>
 
 | ![HTML](html.png) HTML | ![JavaScript](javascript.png)  JavaScript | ![Java](java.png) Java | ![CSS](CSS.jpeg)  CSS | 
@@ -64,8 +77,8 @@ body {
         <span>60%</span>
     </div>
 </div>
-"자바의 기초를 공부하고 어쩌고저쩌고"
-</body>
+<span>"자바의 기초를 공부하고 어쩌고저쩌고"</span>
+
 
 
 
