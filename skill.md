@@ -63,7 +63,7 @@ body {
 | ![intellij](intellij.jpeg)  Intellij| ![vscode](vscode.png)  VS Code | ![Gradle](Gradle.png)  Gradle | ![Git](Git.png)  Git  
 
 <body>
-<div class="col-md-6">
+<div class="col-md-6 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
 <div class="progress-wrap">
     <h3>
         <strong>Java</strong>
@@ -76,7 +76,7 @@ body {
 "자바의 기초를 공부하고 어쩌고저쩌고"
 </div>
 </div>
-<div class="col-md-6">
+<div class="col-md-6 animate-box fadeInRight animated" data-animate-effect="fadeInRight">
 <div class="progress-wrap">
     <h3>
         <strong>HTML</strong>
