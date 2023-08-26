@@ -39,7 +39,6 @@ body {
 }
 .col-md-6 {
     width: 50%;
-    float: left;
     position: relative;
     min-height: 1px;
     padding-left: 15px;
@@ -97,16 +96,6 @@ body {
 <section class="colorlib-skills" data-section="skills">
 				<div class="colorlib-narrow-content">
 					<div class="row">
-						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-							<span class="heading-meta">저는 지금 이런것이 가능합니다.</span>
-							<h2 class="colorlib-heading animate-box">Skills</h2>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
-							<p>개발 입문 언어를 Python으로 시작하여 언어 사용에 감을 익혔습니다. 이후 개발에 입문하기 전에도 많이 들어봤던 Java를 공부하며 전자정부 프레임워크 Java 개발자 양성과정을 들으며 웹 개발에 대한 기초를 학습하였습니다. 수료 후 Java를 바탕으로 자료구조, 알고리즘 그리고 운영체제를 공부하고 <strong>현재는 Spring 프레임워크를 활용하여 백엔드 개발자로 활동하고 있습니다.</strong> 간단한 웹서비스는 혼자서 개발할 수 있으며, Rest API 를 이용한 Web Server를 구현할 수 있습니다.현재는 배포중인 서비스를 계속 업데이트 해나가고 있습니다. 더 나은 서버개발자가 되기위해 Java를 이용해 TDD 개발방법을 사이드 프로젝트에서 훈련하고 Spring 프레임워크에 대한 깊은 공부를 이어가고 있습니다.</p>
-							<p>현재 혼자 진행했던 프로젝트는 아마존 AWS를 통해 배포중입니다. <strong>EC2와 RDS(MariaDB)를 활용한 직접 배포를 경험</strong>했습니다. 또한 GitHub를 활용해 프로젝트를 관리하고 커밋을 최대한 세분화하기 위해 노력하고있습니다.</p>
-						</div>
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 							<div class="progress-wrap">
 								<h3><strong>Java</strong></h3>
