@@ -354,7 +354,7 @@ ul.social-icons {
 }
 
 .post-list {
-  font-family: "BMJUA otf";
+  font-family: 'HakgyoansimWoojuR';
   margin-left: 0;
   padding-left: 0;
   list-style: none;
@@ -503,7 +503,7 @@ ul.post-categories {
 .post-title,
 .post-content h1 {
   @include relative-font-size(1.8);
-  font-family: "BMJUA otf";
+  font-family: 'HakgyoansimWoojuR';
   font-weight: bold;
   letter-spacing: -1px;
   line-height: $base-line-height * $base-font-size * 2;
@@ -514,11 +514,11 @@ ul.post-categories {
 }
 
 .post-content {
-  font-family: "BMJUA otf";
+  font-family: 'HakgyoansimWoojuR';
   margin-bottom: $spacing-unit;
 
   h2, h3, h4, h5, h6 {
-    font-family: "BMJUA otf";
+    font-family: 'HakgyoansimWoojuR';
   }
 
   h2         { margin-top: $spacing-unit * 2 }
