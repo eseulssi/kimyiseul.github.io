@@ -10,7 +10,6 @@ body {
     font-weight: 400;
     font-size: 15px;
     line-height: 1.8;
-    color: rgba(0, 0, 0, 0.7);
 }
 .colorlib-experience, .colorlib-skills, .colorlib-education, .colorlib-blog, .colorlib-work, .colorlib-about, .colorlib-services, .colorlib-contact {
     padding-bottom: 9em;
