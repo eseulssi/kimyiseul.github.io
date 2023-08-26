@@ -122,8 +122,8 @@ body {
                     <h3><strong>WebSocket</strong></h3>
                     <div class="progress">
                         <div class="progress-bar color-3" role="progressbar" aria-valuenow="35"
-                        aria-valuemin="0" aria-valuemax="100" style="width:80%">
-                        <span>80%</span>
+                        aria-valuemin="0" aria-valuemax="100" style="width:70%">
+                        <span>70%</span>
                         </div>
                     </div>
                     Websockt과 Stomp를 활용해 채팅 프로그램을 구현했습니다. 웹소켓을 이용한 실시간 로직을 이해하고 있습니다.
@@ -182,8 +182,8 @@ body {
                     <h3><strong>MySQL</strong></h3>
                     <div class="progress">
                         <div class="progress-bar color-8" role="progressbar" aria-valuenow="40"
-                                aria-valuemin="0" aria-valuemax="100" style="width:60%">
-                            <span>60%</span>
+                                aria-valuemin="0" aria-valuemax="100" style="width:50%">
+                            <span>50%</span>
                         </div>
                     </div>
                     MySQL의 기본 쿼리문을 활용하여 데이터베이스와 대화할 수 있습니다. 대부분의 프로젝트에서 MySQL을 사용했습니다.
