@@ -23,7 +23,7 @@ permalink: /projects/
   </ul>
 </div>
   <h2 class = "center-text" id="wwc">WWC</h2>  
-  <p class = "center-text">전 세계 어디서든, 언어의 장벽 없이, 누구와도 대화가 가능한, 새로운 채팅 플랫폼</p>
+  <p class = "center-text">언어의 장벽 없이, 전 세계 누구와도 채팅이 가능한 새로운 플랫폼</p>
   <p class = "center-text">(2023.07 ~ 2023.09 개발 중)</p>
  
 [`github 바로가기`](https://github.com/bonugg/WorldChatProject)<br/>   
@@ -43,8 +43,9 @@ permalink: /projects/
 <p class = "center-text">실시간 메시지 전송 & 자동 번역</p>
 
 - 웹소켓을 이용한 실시간 메시지 전송 가능
-- 언어 설정 시, 상대 유저의 언어를 자동으로 감지하여 내가 설정한 언어로 자동 번역(papago translation api, papago detection api)
-- 단체 채팅의 특성 상 여러 언어가 오가는데, 이때 자동 번역 기능을 설정하면 유용할 것으로 예상
+- 언어 설정 시, 상대 유저의 언어를 자동으로 감지하여 내가 설정한 언어로 자동 번역
+- papago translation api, papago detection api 사용
+- 여러 언어가 오가는 단체 채팅 특성 상, 자동 번역 기능이 유용할 것으로 예상
 
 
 ![gif](pay.gif){: width="650px" height="400px"}<br/>
@@ -89,6 +90,7 @@ permalink: /projects/
 - 배송지 정보 직접 입력 가능
 - 이전 장바구니 페이지에서 주문한 상품과 수량, 금액 표시
 - 카드 결제 가능
-- 결제하기 버튼을 누르면 결제창으로 이동(아임포트 API - NHN KCP 사용)
+- 결제하기 버튼을 누르면 결제창으로 이동(아임포트 api - NHN KCP 사용)
+
 
   
