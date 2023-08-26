@@ -31,27 +31,28 @@ permalink: /projects/
 ![gif](wwcmain.gif){: width="650px" height="400px"}<br/>  
 <p class = "center-text">&#128071; my role &#128071;</p> 
 
-- 이것이 다운로드다
-- 이것이 다운로드다
-
 ![gif](cateChat.gif){: width="650px" height="400px"}<br/> 
-<p class = "center-text">관심사 채팅(category chat)</p>  
+<p class = "center-text">단체 관심사 채팅(category chat)</p>  
 
-- 이것이 다운로드다
-- 이것이 다운로드다
+- 총 열 세 개의 카테고리 별 채팅방 분류
+- 방 이름, 최대 인원수, 카테고리 선정 후 채팅방 개설 가능
+- 채팅방을 개설한 유저(방장)은 채팅방 자동 입장
+- 입장 시 '입장 메시지' 표출
 
 ![gif](cateChatting.gif){: width="650px" height="400px"}<br/>
 <p class = "center-text">실시간 메시지 전송 & 자동 번역</p>
 
-- 이것이 다운로드다
-- 이것이 다운로드다
+- 웹소켓을 이용한 실시간 메시지 전송 가능
+- 언어 설정 시, 상대 유저의 언어를 자동으로 감지하여 내가 설정한 언어로 자동 번역(papago translation api, papago detection api)
+- 단체 채팅의 특성 상 여러 언어가 오가는데, 이때 자동 번역 기능을 설정하면 유용할 것으로 예상
 
 
 ![gif](pay.gif){: width="650px" height="400px"}<br/>
 <p class = "center-text">파일 전송 & 다운로드</p>
 
-- 이것이 다운로드다
-- 이것이 다운로드다
+- 웹소켓을 이용한 실시간 파일 전송 가능
+- 전송한 파일은 ncloud의 object storage에 저장
+- 파일 다운로드 가능
 
 
 <hr>
@@ -68,23 +69,26 @@ permalink: /projects/
 <p class = "center-text">QNA 게시판</p>
 
 - CRUD 기능 구현 
-- CRUD 기능 구현 
+- 게시글 제목과 해당 게시글의 댓글 갯수를 같이 표출
+- 새로고침 시 조회수 상승 방지 기능
+- 제목과 내용으로 게시글 검색 가능 
 
 ![gif](cart.gif){: width="650px" height="400px"}<br/>
 <p class = "center-text">장바구니</p>
 
-- CRUD 기능 구현 
-- CRUD 기능 구현 
+- 전체 주문/선택 주문에 다른 상품 개수와 총 금액 표출
+- +, -으로 수량 조절
+- 수량에 따른 금액 상승 또는 감소
+- 장바구니 물품 삭제 가능
+- 주문하기 버튼 클릭 시 결제페이지로 이동
 
 ![gif](pay.gif){: width="650px" height="400px"}<br/>
 <p class = "center-text">결제페이지</p>
 
-- CRUD 기능 구현 
-- CRUD 기능 구현 
+- 내 배송지 입력 버튼 클릭 시 회원가입 시 입력한 회원 정보를 자동으로 불러옴
+- 배송지 정보 직접 입력 가능
+- 이전 장바구니 페이지에서 주문한 상품과 수량, 금액 표시
+- 카드 결제 가능
+- 결제하기 버튼을 누르면 결제창으로 이동(아임포트 API - NHN KCP 사용)
 
-![gif](payment.gif){: width="650px" height="400px"}<br/>
-<p class = "center-text">결제</p>   
-
-- CRUD 기능 구현 
-- CRUD 기능 구현 
   
