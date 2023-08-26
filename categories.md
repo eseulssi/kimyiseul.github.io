@@ -3,7 +3,7 @@ layout: archive-taxonomies
 type: categories
 title: Projects
 permalink: /projects/
----  
+---   
 <style>
 .center-text {
   text-align: center;
