@@ -9,14 +9,15 @@ permalink: /projects/
     <li><a class="taxonomy" href="#wwc">
       <span>WWC</span>
       <span class="taxonomy-count">chatting platform</span>
-    </li><li><a class="taxonomy" href="#potion">
+    </a></li>
+    <li><a class="taxonomy" href="#potion">
       <span>Potion Shop</span>
-      <span class="taxonomy-count">shopping mall</span<>  
-    </li>
+      <span class="taxonomy-count">shopping mall</span>
+    </a></li>
   </ul>
 </div>
   <h2 id="wwc">wwc</h2>
-  
+
 ![gif](potion.gif){: width="650px" height="400px"}<br/>  
 [`github 바로가기`](https://github.com/bonugg/WorldChatProject)<br/> 
 전 세계 어디서든, 언어의 장벽 없이, 누구와도 대화가 가능한, 새로운 채팅 플랫폼<br/>  
