@@ -71,7 +71,6 @@ body {
     box-shadow: none;
     font-size: 12px;
     line-height: 1.2;
-    color: #000;
     font-weight: 600;
     text-align: right;
     position: relative;
