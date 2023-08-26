@@ -22,10 +22,11 @@ permalink: /projects/
     </a></li>
   </ul>
 </div>
-  <h2 class = "center-text" id="wwc">WWC</h2>
-  <a href="https://github.com/bonugg/WorldChatProject"><span class="center-text" >[github 바로가기]</span></a>
+  <h2 class = "center-text" id="wwc">WWC</h2>  
 
-[`github 바로가기`](https://github.com/bonugg/WorldChatProject)<br/> 
+[`github 바로가기`](https://github.com/bonugg/WorldChatProject)<br/>   
+<br/>  
+  
 ![gif](potion.gif){: width="650px" height="400px"}<br/>  
 전 세계 어디서든, 언어의 장벽 없이, 누구와도 대화가 가능한, 새로운 채팅 플랫폼<br/>  
 2023.07 ~ 2023.09 진행 중<br/> 
