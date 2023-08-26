@@ -1,10 +1,10 @@
-- title: blog
-  url: https://blog.naver.com/eeeeeseulllll/223057735435
-  icon: fab fa-blogger-b
 - title: GitHub
   url: https://github.com/eseulssi
   icon: fab fa-github
 - title: Notion
   url: https://eseulssi.notion.site/eseulssi/b0641f7788d5423094a9fcd279755bb9
   icon: fas fa-clipboard
+- title: blog
+  url: https://blog.naver.com/eeeeeseulllll/223057735435
+  icon: fab fa-blogger-b
 
