@@ -12,21 +12,6 @@ body {
     line-height: 1.8;
     color: rgba(0, 0, 0, 0.7);
 }
-#colorlib-main {
-    width: calc(100% - 300px);
-    float: right;
-    -webkit-transition: 0.5s;
-    -o-transition: 0.5s;
-    transition: 0.5s;
-}
-#colorlib-hero {
-    min-height: 500px;
-    background: #fff url(../images/loader.gif) no-repeat center center;
-    width: 100%;
-    float: left;
-    margin-bottom: 10em;
-    clear: both;
-}
 .colorlib-experience, .colorlib-skills, .colorlib-education, .colorlib-blog, .colorlib-work, .colorlib-about, .colorlib-services, .colorlib-contact {
     padding-top: 4em;
     padding-bottom: 9em;
@@ -38,17 +23,10 @@ body {
     padding: 0 2.5em;
 }
 .col-md-6 {
-    width: 50%;
     position: relative;
     min-height: 1px;
     padding-left: 15px;
     padding-right: 15px;
-}
-.fadeInLeft {
-    animation-name: fadeInLeft;
-}
-.fadeInRight {
-    animation-name: fadeInRight;
 }
 .progress {
     height: 6px;
@@ -68,7 +46,28 @@ body {
     margin-bottom: 10px;
 }
 .progress-bar.color-1 {
-    background: #2c98f0;
+    background: red;
+}
+.progress-bar.color-2 {
+    background: orange;
+}
+.progress-bar.color-3 {
+    background: yellow;
+}
+.progress-bar.color-4 {
+    background: green;
+}
+.progress-bar.color-5 {
+    background: blue;
+}
+.progress-bar.color-6 {
+    background: navy;
+}
+.progress-bar.color-7 {
+    background: purple;
+}
+.progress-bar.color-8 {
+    background: gray;
 }
 .progress-bar {
     box-shadow: none;
@@ -94,108 +93,108 @@ body {
 
 <body>
 <section class="colorlib-skills" data-section="skills">
-				<div class="colorlib-narrow-content">
-					<div class="row">
-						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-							<div class="progress-wrap">
-								<h3><strong>Java</strong></h3>
-								<div class="progress">
-								 	<div class="progress-bar color-1" role="progressbar" aria-valuenow="60"
-								  	aria-valuemin="0" aria-valuemax="100" style="width:60%">
-								    <span>60%</span>
-								  	</div>
-								</div>
-								자바의 기초를 공부하고 자료구조와 알고리즘을 자바기반으로 학습했습니다. 순수 자바를 활용 TDD 개발방법을 적용하여 객체 지향적인 코드개발 능력을 훈련하고 있습니다.
-							</div>
-						</div>
-						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
-							<div class="progress-wrap">
-								<h3><strong>Spring</strong></h3>
-								<div class="progress">
-								 	<div class="progress-bar color-2" role="progressbar" aria-valuenow="50"
-								  	aria-valuemin="0" aria-valuemax="100" style="width:50%">
-								    <span>50%</span>
-								  	</div>
-								</div>
-								Spring으로 REST API를 활용하여 웹 서비스를 개발하였습니다. 스프링 데이터 JPA를 활용하고 스프링 Security Oauth2를 사용해서 구글, 네이버 자동로그인을 구현했습니다.
-							</div>
-						</div>
-						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-							<div class="progress-wrap">
-								<h3><strong>HTML5</strong></h3>
-								<div class="progress">
-								 	<div class="progress-bar color-3" role="progressbar" aria-valuenow="40"
-								  	aria-valuemin="0" aria-valuemax="100" style="width:40%">
-								    <span>40%</span>
-								  	</div>
-								</div>
-								HTML 페이지를 설계하고 Thymeleaf, Mustache 템플릿 문법을 이용해서 데이터를 원하는 위치에 넣을 수 있습니다.
-							</div>
-						</div>
-						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
-							<div class="progress-wrap">
-								<h3><strong>CSS3</strong></h3>
-								<div class="progress">
-								 	<div class="progress-bar color-4" role="progressbar" aria-valuenow="35"
-								  	aria-valuemin="0" aria-valuemax="100" style="width:35%">
-								    <span>35%</span>
-								  	</div>
-								</div>
-								부트스트랩을 활용해서 만든 뒤 자세한 설정은 CSS로 조절할 수 있도록 훈련했습니다. 모바일에서는 조금 부족하여 완성도 높은 서비스를 위해 기본적인 반응형에 대해 공부하고 있습니다.
-							</div>
-						</div>
-						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-							<div class="progress-wrap">
-								<h3><strong>Javascript</strong></h3>
-								<div class="progress">
-								 	<div class="progress-bar color-5" role="progressbar" aria-valuenow="40"
-								  	aria-valuemin="0" aria-valuemax="100" style="width:40%">
-								    <span>40%</span>
-								  	</div>
-								</div>
-								JavaScript, JQuery를 활용해서 몇가지 이벤트를 만들 수 있고 Ajax를 활용해서 서버와 비동기 통신하여 데이터를 분할하여 읽어오는 방법을 구현했습니다.
-							</div>
-						</div>
-						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
-							<div class="progress-wrap">
-								<h3><strong>GitHub</strong></h3>
-								<div class="progress">
-								 	<div class="progress-bar color-6" role="progressbar" aria-valuenow="50"
-								  	aria-valuemin="0" aria-valuemax="100" style="width:50%">
-								    <span>50%</span>
-								  	</div>
-								</div>
-								GitHub를 활용해서 프로젝트를 관리하고 커밋을 세분화하는 훈련을 했습니다. GitHub를 사용해서 알고리즘 문제를 풀이한 내용도 저장하고 있습니다.
-							</div>
-						</div>
-						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-							<div class="progress-wrap">
-								<h3><strong>AWS</strong></h3>
-								<div class="progress">
-									<div class="progress-bar color-7" role="progressbar" aria-valuenow="30"
-										 aria-valuemin="0" aria-valuemax="100" style="width:30%">
-										<span>30%</span>
-									</div>
-								</div>
-								아마존 AWS를 활용해서 웹 서비스를 배포하는 경험이 있습니다.RDS(MariaDB)를 사용하고 있고 현재도 배포하며 업데이트 하고있습니다.
-							</div>
-						</div>
-						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
-							<div class="progress-wrap">
-								<h3><strong>MySQL</strong></h3>
-								<div class="progress">
-									<div class="progress-bar color-8" role="progressbar" aria-valuenow="40"
-										 aria-valuemin="0" aria-valuemax="100" style="width:40%">
-										<span>40%</span>
-									</div>
-								</div>
-								MySQL의 기본 쿼리문을 활용하여 데이터베이스와 대화할 수 있습니다. 대부분의 프로젝트에서 MySQL을 사용해봤고
-								배포중인 프로젝트에는 MariaDB를 사용하고 있습니다.
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
+    <div class="colorlib-narrow-content">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="progress-wrap">
+                    <h3><strong>Java</strong></h3>
+                    <div class="progress">
+                        <div class="progress-bar color-1" role="progressbar" aria-valuenow="60"
+                        aria-valuemin="0" aria-valuemax="100" style="width:60%">
+                        <span>60%</span>
+                        </div>
+                    </div>
+                    자바의 기초를 공부하고 자료구조와 알고리즘을 자바기반으로 학습했습니다. 순수 자바를 활용 TDD 개발방법을 적용하여 객체 지향적인 코드개발 능력을 훈련하고 있습니다.
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="progress-wrap">
+                    <h3><strong>SpringBoot</strong></h3>
+                    <div class="progress">
+                        <div class="progress-bar color-2" role="progressbar" aria-valuenow="50"
+                        aria-valuemin="0" aria-valuemax="100" style="width:50%">
+                        <span>50%</span>
+                        </div>
+                    </div>
+                    Spring으로 REST API를 활용하여 웹 서비스를 개발하였습니다. 스프링 데이터 JPA를 활용하고 스프링 Security Oauth2를 사용해서 구글, 네이버 자동로그인을 구현했습니다.
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="progress-wrap">
+                    <h3><strong>HTML5</strong></h3>
+                    <div class="progress">
+                        <div class="progress-bar color-3" role="progressbar" aria-valuenow="40"
+                        aria-valuemin="0" aria-valuemax="100" style="width:40%">
+                        <span>40%</span>
+                        </div>
+                    </div>
+                    HTML 페이지를 설계하고 Thymeleaf, Mustache 템플릿 문법을 이용해서 데이터를 원하는 위치에 넣을 수 있습니다.
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="progress-wrap">
+                    <h3><strong>CSS</strong></h3>
+                    <div class="progress">
+                        <div class="progress-bar color-4" role="progressbar" aria-valuenow="35"
+                        aria-valuemin="0" aria-valuemax="100" style="width:35%">
+                        <span>35%</span>
+                        </div>
+                    </div>
+                    부트스트랩을 활용해서 만든 뒤 자세한 설정은 CSS로 조절할 수 있도록 훈련했습니다. 모바일에서는 조금 부족하여 완성도 높은 서비스를 위해 기본적인 반응형에 대해 공부하고 있습니다.
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="progress-wrap">
+                    <h3><strong>Javascript</strong></h3>
+                    <div class="progress">
+                        <div class="progress-bar color-5" role="progressbar" aria-valuenow="40"
+                        aria-valuemin="0" aria-valuemax="100" style="width:40%">
+                        <span>40%</span>
+                        </div>
+                    </div>
+                    JavaScript, JQuery를 활용해서 몇가지 이벤트를 만들 수 있고 Ajax를 활용해서 서버와 비동기 통신하여 데이터를 분할하여 읽어오는 방법을 구현했습니다.
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="progress-wrap">
+                    <h3><strong>GitHub</strong></h3>
+                    <div class="progress">
+                        <div class="progress-bar color-6" role="progressbar" aria-valuenow="50"
+                        aria-valuemin="0" aria-valuemax="100" style="width:50%">
+                        <span>50%</span>
+                        </div>
+                    </div>
+                    GitHub를 활용해서 프로젝트를 관리하고 커밋을 세분화하는 훈련을 했습니다. GitHub를 사용해서 알고리즘 문제를 풀이한 내용도 저장하고 있습니다.
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="progress-wrap">
+                    <h3><strong>Naver Cloud</strong></h3>
+                    <div class="progress">
+                        <div class="progress-bar color-7" role="progressbar" aria-valuenow="30"
+                                aria-valuemin="0" aria-valuemax="100" style="width:30%">
+                            <span>30%</span>
+                        </div>
+                    </div>
+                    아마존 AWS를 활용해서 웹 서비스를 배포하는 경험이 있습니다.RDS(MariaDB)를 사용하고 있고 현재도 배포하며 업데이트 하고있습니다.
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="progress-wrap">
+                    <h3><strong>MySQL</strong></h3>
+                    <div class="progress">
+                        <div class="progress-bar color-8" role="progressbar" aria-valuenow="40"
+                                aria-valuemin="0" aria-valuemax="100" style="width:40%">
+                            <span>40%</span>
+                        </div>
+                    </div>
+                    MySQL의 기본 쿼리문을 활용하여 데이터베이스와 대화할 수 있습니다. 대부분의 프로젝트에서 MySQL을 사용해봤고
+                    배포중인 프로젝트에는 MariaDB를 사용하고 있습니다.
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 
 
