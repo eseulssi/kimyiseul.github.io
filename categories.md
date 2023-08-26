@@ -31,14 +31,28 @@ permalink: /projects/
 ![gif](wwcmain.gif){: width="650px" height="400px"}<br/>  
 <p class = "center-text">&#128071; my role &#128071;</p> 
 
+- 이것이 다운로드다
+- 이것이 다운로드다
+
 ![gif](cateChat.gif){: width="650px" height="400px"}<br/> 
-관심사 채팅(category chat)<br/>
+<p class = "center-text">관심사 채팅(category chat)</p>  
+
+- 이것이 다운로드다
+- 이것이 다운로드다
+
 ![gif](cateChatting.gif){: width="650px" height="400px"}<br/>
-실시간 메시지 주고받기<br/> 
+<p class = "center-text">실시간 메시지 전송 & 자동 번역</p>
+
+- 이것이 다운로드다
+- 이것이 다운로드다
+
+
 ![gif](pay.gif){: width="650px" height="400px"}<br/>
-실시간 파일 주고받기<br/> 
-![gif](payment.gif){: width="650px" height="400px"}<br/>  
-파파고 번역<br/>
+<p class = "center-text">파일 전송 & 다운로드</p>
+
+- 이것이 다운로드다
+- 이것이 다운로드다
+
 
 <hr>
 <h2 class = "center-text" id="potion">Potion Shop</h2>
@@ -47,16 +61,30 @@ permalink: /projects/
 
 [`github 바로가기`](https://github.com/three-team1/main/tree/main)<br/>   
     
-![gif](potion.gif){: width="650px" height="400px"}   
+![gif](potion.gif){: width="650px" height="400px"}<br/>
 <p class = "center-text">&#128071; my role &#128071;</p>  
 
 ![gif](qna.gif){: width="650px" height="400px"}   
-[QNA 게시판] 
+<p class = "center-text">QNA 게시판</p>
+
 - CRUD 기능 구현 
+- CRUD 기능 구현 
+
 ![gif](cart.gif){: width="650px" height="400px"}<br/>
-장바구니<br/> 
+<p class = "center-text">장바구니</p>
+
+- CRUD 기능 구현 
+- CRUD 기능 구현 
+
 ![gif](pay.gif){: width="650px" height="400px"}<br/>
-결제페이지<br/> 
-![gif](payment.gif){: width="650px" height="400px"}    
-결제    
+<p class = "center-text">결제페이지</p>
+
+- CRUD 기능 구현 
+- CRUD 기능 구현 
+
+![gif](payment.gif){: width="650px" height="400px"}<br/>
+<p class = "center-text">결제</p>   
+
+- CRUD 기능 구현 
+- CRUD 기능 구현 
   
