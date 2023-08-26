@@ -24,13 +24,12 @@ permalink: /projects/
 </div>
   <h2 class = "center-text" id="wwc">WWC</h2>  
   <p class = "center-text">전 세계 어디서든, 언어의 장벽 없이, 누구와도 대화가 가능한, 새로운 채팅 플랫폼</p>
-  <p class = "center-text">2023.07 ~ 2023.09 개발 중</p>
-
+  <p class = "center-text">(2023.07 ~ 2023.09 개발 중)</p>
+ 
 [`github 바로가기`](https://github.com/bonugg/WorldChatProject)<br/>   
   
 ![gif](potion.gif){: width="650px" height="400px"}<br/>  
-전 세계 어디서든, 언어의 장벽 없이, 누구와도 대화가 가능한, 새로운 채팅 플랫폼<br/>  
-2023.07 ~ 2023.09 진행 중<br/> 
+   
 ![gif](qna.gif){: width="650px" height="400px"}<br/> 
 qna게시판<br/>
 ![gif](cart.gif){: width="650px" height="400px"}<br/>
@@ -42,12 +41,13 @@ qna게시판<br/>
 
 <hr>
 <h2 class = "center-text" id="potion">Potion Shop</h2>
+<p class = "center-text">초능력을 판매하는 포션 쇼핑몰 '포션이었다'</p>
+<p class = "center-text">(2023.06 ~ 2023.07 개발 완료)</p>
 
 [`github 바로가기`](https://github.com/three-team1/main/tree/main)<br/>   
-  
-![gif](potion.gif){: width="650px" height="400px"}  
-초능력을 판매하는 포션 쇼핑몰 '포션이었다'   
-2023.06 ~ 2023.07 진행   
+    
+![gif](potion.gif){: width="650px" height="400px"}   
+   
 ![gif](qna.gif){: width="650px" height="400px"}   
 qna게시판   
 ![gif](cart.gif){: width="650px" height="400px"}<br/>
