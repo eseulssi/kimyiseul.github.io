@@ -4,14 +4,20 @@ type: categories
 title: Projects
 permalink: /projects/
 ---  
+<style>
+.center-text {
+  text-align: center;
+}
+</style>
+
 <div class="taxonomies-wrapper">
   <ul class="taxonomies">
     <li><a class="taxonomy" href="#wwc">
-      <span>WWC</span>
+      <div class="center-text">WWC</span>
       <span class="taxonomy-count">chatting platform</span>
     </a></li>
     <li><a class="taxonomy" href="#potion">
-      <span>Potion Shop</span>
+      <div class="center-text">Potion Shop</span>
       <span class="taxonomy-count">shopping mall</span>
     </a></li>
   </ul>
