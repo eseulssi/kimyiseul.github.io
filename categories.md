@@ -29,7 +29,7 @@ permalink: /projects/
 [`github 바로가기`](https://github.com/bonugg/WorldChatProject)<br/>   
   
 ![gif](potion.gif){: width="650px" height="400px"}<br/>  
-<p class = "center-text">[my role]</p>  
+<p class = "center-text">&#128071; my role &#128071;</p> 
 
 ![gif](qna.gif){: width="650px" height="400px"}<br/> 
 qna게시판<br/>
