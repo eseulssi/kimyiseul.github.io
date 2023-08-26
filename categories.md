@@ -23,6 +23,7 @@ permalink: /projects/
   </ul>
 </div>
   <h2 class = "center-text" id="wwc">WWC</h2>
+  <a class="center-text" href="https://github.com/bonugg/WorldChatProject">github 바로가기</a>
 
 [`github 바로가기`](https://github.com/bonugg/WorldChatProject)<br/> 
 ![gif](potion.gif){: width="650px" height="400px"}<br/>  
