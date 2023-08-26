@@ -33,7 +33,7 @@ permalink: /projects/
 
 ![gif](cateChat.gif){: width="650px" height="400px"}<br/> 
 관심사 채팅(category chat)<br/>
-![gif](cart.gif){: width="650px" height="400px"}<br/>
+![gif](cateChatting.gif){: width="650px" height="400px"}<br/>
 실시간 메시지 주고받기<br/> 
 ![gif](pay.gif){: width="650px" height="400px"}<br/>
 실시간 파일 주고받기<br/> 
