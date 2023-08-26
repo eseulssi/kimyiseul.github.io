@@ -1,5 +1,5 @@
 ---
-layout: archive-years
+layout: archive-taxonomies
 scss: variables
 title: Years
 permalink: /years/
