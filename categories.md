@@ -23,6 +23,8 @@ permalink: /projects/
   </ul>
 </div>
   <h2 class = "center-text" id="wwc">WWC</h2>  
+  <h3 class = "center-text">전 세계 어디서든, 언어의 장벽 없이, 누구와도 대화가 가능한, 새로운 채팅 플랫폼</h3>
+  <h3 class = "center-text">2023.07 ~ 2023.09 개발 중</h3>
 
 [`github 바로가기`](https://github.com/bonugg/WorldChatProject)<br/>   
   
