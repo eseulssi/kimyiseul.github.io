@@ -14,10 +14,15 @@ body {
 }
 .progress {
     height: 6px;
-    -webkit-box-shadow: none;
     box-shadow: none;
     background: #f2f3f7;
     overflow: visible;
+    margin-bottom: 20px;
+}
+.progress-bar span {
+    position: absolute;
+    top: -22px;
+    right: 0;
 }
 .progress-wrap h3 {
     font-size: 16px;
@@ -28,8 +33,6 @@ body {
     background: #2c98f0;
 }
 .progress-bar {
-    background: #2c98f0;
-    -webkit-box-shadow: none;
     box-shadow: none;
     font-size: 12px;
     line-height: 1.2;
@@ -38,27 +41,11 @@ body {
     text-align: right;
     position: relative;
     overflow: visible;
-    -webkit-border-radius: 8px;
-    -moz-border-radius: 8px;
-    -ms-border-radius: 8px;
     border-radius: 8px;
-}
-.progress-bar {
     float: left;
-    width: 0%;
     height: 100%;
-    font-size: 12px;
-    line-height: 20px;
-    color: #fff;
-    text-align: center;
-    background-color: #337ab7;
-    -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
-    box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
-    -webkit-transition: width 0.6s ease;
-    -o-transition: width 0.6s ease;
     transition: width 0.6s ease;
 }
-
 </style>
 
 | ![HTML](html.png) HTML | ![JavaScript](javascript.png)  JavaScript | ![Java](java.png) Java | ![CSS](CSS.jpeg)  CSS | 
