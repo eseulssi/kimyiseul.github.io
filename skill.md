@@ -12,6 +12,14 @@ body {
     line-height: 1.8;
     color: rgba(0, 0, 0, 0.7);
 }
+.col-md-6 {
+    width: 50%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
 .progress {
     height: 6px;
     box-shadow: none;
@@ -55,6 +63,7 @@ body {
 | ![intellij](intellij.jpeg)  Intellij| ![vscode](vscode.png)  VS Code | ![Gradle](Gradle.png)  Gradle | ![Git](Git.png)  Git  
 
 <body>
+<div class="col-md-6">
 <div class="progress-wrap">
     <h3>
         <strong>Java</strong>
@@ -64,7 +73,22 @@ body {
         <span>60%</span>
     </div>
 </div>
-<span>"자바의 기초를 공부하고 어쩌고저쩌고"</span>
+"자바의 기초를 공부하고 어쩌고저쩌고"
+</div>
+</div>
+<div class="col-md-6">
+<div class="progress-wrap">
+    <h3>
+        <strong>HTML</strong>
+    </h3>
+<div class="progress">
+    <div class="progress-bar color-1" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width:60%">
+        <span>60%</span>
+    </div>
+</div>
+"자바의 기초를 공부하고 어쩌고저쩌고"
+</div>
+</div>
 
 
 
