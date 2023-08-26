@@ -29,8 +29,8 @@ permalink: /projects/
 [`github 바로가기`](https://github.com/bonugg/WorldChatProject)<br/>   
   
 ![gif](potion.gif){: width="650px" height="400px"}<br/>  
-<p class = "center-text">메인화면</p>  
-  
+<p class = "center-text">[my role]</p>  
+
 ![gif](qna.gif){: width="650px" height="400px"}<br/> 
 qna게시판<br/>
 ![gif](cart.gif){: width="650px" height="400px"}<br/>
@@ -48,7 +48,8 @@ qna게시판<br/>
 [`github 바로가기`](https://github.com/three-team1/main/tree/main)<br/>   
     
 ![gif](potion.gif){: width="650px" height="400px"}   
-   
+<p class = "center-text">[my role]</p>  
+
 ![gif](qna.gif){: width="650px" height="400px"}   
 qna게시판   
 ![gif](cart.gif){: width="650px" height="400px"}<br/>
