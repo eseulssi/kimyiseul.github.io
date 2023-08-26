@@ -41,7 +41,8 @@ qna게시판<br/>
 <hr>
 <h2 class = "center-text" id="potion">Potion Shop</h2>
 
-[`github 바로가기`](https://github.com/three-team1/main/tree/main) 
+[`github 바로가기`](https://github.com/three-team1/main/tree/main)<br/>   
+  
 ![gif](potion.gif){: width="650px" height="400px"}  
 초능력을 판매하는 포션 쇼핑몰 '포션이었다'   
 2023.06 ~ 2023.07 진행   
