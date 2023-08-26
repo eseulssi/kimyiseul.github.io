@@ -190,7 +190,7 @@ body {
                     배포중인 프로젝트에는 MariaDB를 사용하고 있습니다.
                 </div>
             </div>
-    </div>
+    </div> 
 </section>
 
 
