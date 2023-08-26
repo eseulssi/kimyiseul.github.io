@@ -28,17 +28,17 @@ permalink: /projects/
  
 [`github 바로가기`](https://github.com/bonugg/WorldChatProject)<br/>   
   
-![gif](potion.gif){: width="650px" height="400px"}<br/>  
+![gif](wwcmain.gif){: width="650px" height="400px"}<br/>  
 <p class = "center-text">&#128071; my role &#128071;</p> 
 
-![gif](qna.gif){: width="650px" height="400px"}<br/> 
-qna게시판<br/>
+![gif](cateChat.gif){: width="650px" height="400px"}<br/> 
+관심사 채팅(category chat)<br/>
 ![gif](cart.gif){: width="650px" height="400px"}<br/>
-장바구니<br/> 
+실시간 메시지 주고받기<br/> 
 ![gif](pay.gif){: width="650px" height="400px"}<br/>
-결제페이지<br/> 
+실시간 파일 주고받기<br/> 
 ![gif](payment.gif){: width="650px" height="400px"}<br/>  
-결제<br/>
+파파고 번역<br/>
 
 <hr>
 <h2 class = "center-text" id="potion">Potion Shop</h2>
@@ -51,7 +51,8 @@ qna게시판<br/>
 <p class = "center-text">&#128071; my role &#128071;</p>  
 
 ![gif](qna.gif){: width="650px" height="400px"}   
-qna게시판   
+[QNA 게시판] 
+- CRUD 기능 구현 
 ![gif](cart.gif){: width="650px" height="400px"}<br/>
 장바구니<br/> 
 ![gif](pay.gif){: width="650px" height="400px"}<br/>
