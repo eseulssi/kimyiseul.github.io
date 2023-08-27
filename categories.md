@@ -26,14 +26,14 @@ permalink: /projects/
   <p class = "center-text">언어의 장벽 없이, 전 세계 누구와도 채팅이 가능한 새로운 플랫폼</p>
   <p class = "center-text">(2023.07 ~ 2023.09 개발 중)</p>
  
-[`github 바로가기`](https://github.com/bonugg/WorldChatProject)<br/>   
+[`github 바로가기`](https://github.com/bonugg/WorldChatProject)  
 [`notion 바로가기`](https://eseulssi.notion.site/WWC-worldwide-chat-8b3d1599f3ec40fa95bb730569adb5ab?pvs=4)<br/>
   
 ![gif](wwcmain.gif){: width="730px" height="400px"}<br/>  
 <p class = "center-text">&#128071; my role &#128071;</p> 
 
 ![gif](cateChat.gif){: width="730px" height="400px"}<br/> 
-<p class = "center-text">&#128204; 단체 관심사 채팅(category chat)</p>  
+<p class = "center-text">&#128204; 단체 관심사 채팅(category chat)</p>   
 
 - 총 열 세 개의 카테고리 별 채팅방 분류
 - 방 이름, 최대 인원수, 카테고리 선정 후 채팅방 개설 가능
