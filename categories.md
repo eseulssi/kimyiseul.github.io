@@ -48,7 +48,6 @@ permalink: /projects/
 - 채팅에 참여 중인 유저리스트 표출
 - 유저리스트가 '0'이 될 경우, 채팅방 자동 삭제
 
-![gif](cateChatting.gif){: width="730px" height="400px"}<br/>
 <p class = "center-text">&#128204; 자동 번역</p>
 
 - 번역 언어 설정 시, 상대 유저의 언어를 자동으로 감지하여 내가 설정한 언어로 '자동 번역'
