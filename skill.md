@@ -173,8 +173,8 @@ body {
                     <h3><strong>Naver Cloud</strong></h3>
                     <div class="progress">
                         <div class="progress-bar color-7" role="progressbar" aria-valuenow="30"
-                                aria-valuemin="0" aria-valuemax="100" style="width:50%">
-                            <span>50%</span>
+                                aria-valuemin="0" aria-valuemax="100" style="width:60%">
+                            <span>60%</span>
                         </div>
                     </div>
                     네이버 클라우드 스토리지를 사용할 수 있습니다. API를 사용할 수 있습니다.
