@@ -62,7 +62,7 @@ permalink: /projects/
 - 웹소켓을 이용한 실시간 사진, 동영상, 문서 파일 등 여러 종류의 파일 전송 가능
 - 전송한 파일은 ncloud의 object storage에 저장
 - DB에는 데이터 정보를 저장
-- 파일 다운로드 가능
+- 버튼을 이용해 파일 다운로드 가능
 <hr>
 <br/>
 <p class = "center-text">&#128221; 프로젝트를 진행하며 느낀 점</p>
