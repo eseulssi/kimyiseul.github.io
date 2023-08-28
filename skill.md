@@ -150,7 +150,7 @@ body {
                         <span>50%</span>
                         </div>
                     </div>
-                    JavaScript, JQuery를 활용해서 몇가지 이벤트를 만들 수 있고, Ajax를 활용해서  
+                    JavaScript를 활용해서 몇가지 이벤트를 만들 수 있고, Ajax를 활용해서  
                     서버와 비동기 통신하여 데이터를 분할하여 읽어오는 방법을 구현했습니다.
                 </div>
             </div>
