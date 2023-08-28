@@ -132,7 +132,7 @@ body {
                 <div class="progress-wrap">
                     <h3><strong>HTML / CSS</strong></h3>
                     <div class="progress">
-                        <div class="progress-bar color-3" role="progressbar" aria-valuenow="40"
+                        <div class="progress-bar color-4" role="progressbar" aria-valuenow="40"
                         aria-valuemin="0" aria-valuemax="100" style="width:70%">
                         <span>70%</span>
                         </div>
