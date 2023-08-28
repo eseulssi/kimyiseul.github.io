@@ -56,12 +56,12 @@ permalink: /projects/
 - Papago Translation API / Papago Detection API 사용
 
 
-![gif](file.gif){: width="730px" height="400px"}<br/>
-<p class = "center-text">&#128204; 파일 전송 & 다운로드(백엔드 개발 완료/프론트 구현 중)</p>
+![gif](fileupload.gif){: width="730px" height="400px"}<br/>
+<p class = "center-text">&#128204; 파일 전송 & 다운로드</p>
 
 - 웹소켓을 이용한 실시간 사진, 동영상, 문서 파일 등 여러 종류의 파일 전송 가능
 - 전송한 파일은 ncloud의 object storage에 저장
-- DB에는 데이터 정보 저장
+- DB에는 데이터 정보를 저장
 - 파일 다운로드 가능
 <hr>
 <br/>
