@@ -56,7 +56,7 @@ permalink: /projects/
 - Papago Translation API / Papago Detection API 사용
 
 
-![gif](fileupload.gif){: width="730px" height="400px"}<br/>
+![gif](filedownload.gif){: width="730px" height="400px"}<br/>
 <p class = "center-text">&#128204; 파일 전송 & 다운로드</p>
 
 - 웹소켓을 이용한 실시간 사진, 동영상, 문서 파일 등 여러 종류의 파일 전송 가능
