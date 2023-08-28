@@ -32,7 +32,7 @@ permalink: /projects/
 ![gif](main.gif){: width="730px" height="400px"}<br/>  
 <p class = "center-text">&#128071; my role &#128071;</p> 
 
-![gif](createroom.gif){: width="730px" height="400px"}<br/> 
+![gif](cateroom.gif){: width="730px" height="400px"}<br/> 
 <p class = "center-text">&#128204; 단체 관심사 채팅(category chat)</p>   
 
 - 총 열 세 개의 카테고리 별 채팅방 분류
@@ -53,7 +53,7 @@ permalink: /projects/
 
 - 번역 언어 설정 시, 상대 유저의 언어를 자동으로 감지하여 내가 설정한 언어로 '자동 번역'
 - 여러 언어가 오가는 단체 채팅 특성 상, 자동 번역 기능이 유용할 것으로 예상
-- Papago Translation API, Papago Detection API 사용
+- Papago Translation API / Papago Detection API 사용
 
 
 ![gif](file.gif){: width="730px" height="400px"}<br/>
