@@ -88,8 +88,9 @@ permalink: /projects/
 ![gif](qna.gif){: width="730px" height="400px"}   
 <p class = "center-text">&#128204; QNA 게시판</p>
 
-- CRUD 기능 구현 
+- CRUD 기능 구현
 - 게시글 제목과 해당 게시글의 댓글 갯수를 같이 표출
+- 댓글 작성 및 삭제 가능
 - 새로고침 시 조회수 상승 방지 기능
 - 제목과 내용으로 게시글 검색 가능 
 
