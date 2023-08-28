@@ -29,24 +29,28 @@ permalink: /projects/
 [`github 바로가기`](https://github.com/bonugg/WorldChatProject)  
 [`notion 바로가기`](https://eseulssi.notion.site/WWC-worldwide-chat-8b3d1599f3ec40fa95bb730569adb5ab?pvs=4)<br/>
   
-![gif](wwcmain.gif){: width="730px" height="400px"}<br/>  
+![gif](main.gif){: width="730px" height="400px"}<br/>  
 <p class = "center-text">&#128071; my role &#128071;</p> 
 
-![gif](cateChat.gif){: width="730px" height="400px"}<br/> 
+![gif](createroom.gif){: width="730px" height="400px"}<br/> 
 <p class = "center-text">&#128204; 단체 관심사 채팅(category chat)</p>   
 
 - 총 열 세 개의 카테고리 별 채팅방 분류
 - 방 이름, 최대 인원수, 카테고리 입력 후 채팅방 개설 가능
 - 채팅방을 개설한 유저(방장)는 채팅방 자동 입장
+
+![gif](cateChatting.gif){: width="730px" height="400px"}<br/>
+<p class = "center-text">&#128204; 실시간 메시지 전송</p>
+
+- 웹소켓을 이용한 실시간 메시지 전송 가능
 - 입장/퇴장 시 '입장/퇴장 메시지' 표출
+- 채팅창 입력 시 '입력 중' 메시지 표출 -> 입력이 끝나면 채팅 내용 전송
 - 채팅에 참여 중인 유저리스트 표출
 - 유저리스트가 '0'이 될 경우, 채팅방 자동 삭제
 
 ![gif](cateChatting.gif){: width="730px" height="400px"}<br/>
-<p class = "center-text">&#128204; 실시간 메시지 전송 & 자동 번역</p>
+<p class = "center-text">&#128204; 자동 번역</p>
 
-- 웹소켓을 이용한 실시간 메시지 전송 가능
-- 채팅창 입력 시 '입력 중' 메시지 표출, 입력이 끝나면 채팅 내용 전송
 - 번역 언어 설정 시, 상대 유저의 언어를 자동으로 감지하여 내가 설정한 언어로 '자동 번역'
 - 여러 언어가 오가는 단체 채팅 특성 상, 자동 번역 기능이 유용할 것으로 예상
 - Papago Translation API, Papago Detection API 사용
