@@ -39,7 +39,7 @@ permalink: /projects/
 - 방 이름, 최대 인원수, 카테고리 입력 후 채팅방 개설 가능
 - 채팅방을 개설한 유저(방장)는 채팅방 자동 입장
 
-![gif](cateChatting.gif){: width="730px" height="400px"}<br/>
+![gif](chatt.gif){: width="730px" height="400px"}<br/>
 <p class = "center-text">&#128204; 실시간 메시지 전송</p>
 
 - 웹소켓을 이용한 실시간 메시지 전송 가능
