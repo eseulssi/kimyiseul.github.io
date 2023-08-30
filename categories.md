@@ -22,12 +22,14 @@ permalink: /projects/
     </a></li>
   </ul>
 </div>
+<div>
   <h2 class = "center-text" id="wwc">WWC</h2>  
-    <ul class="post-list-by-taxonomy">
+    <ul>
       <li>
         <a href="/projects/2023/09/11/potion.html">WWC(WorldWide Chat)</a>
       </li>
     </ul>
+</div>
 
 
   <p class = "center-text">언어의 장벽 없이, 전 세계 누구와도 채팅이 가능한 새로운 플랫폼</p>
