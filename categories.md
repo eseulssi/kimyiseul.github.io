@@ -23,7 +23,7 @@ permalink: /projects/
   </ul>
 </div>
 <div>
-  <h2 class = "center-text" id="wwc">WWC</h2>  
+  <h2 id="wwc">WWC</h2>  
     <ul>
       <li>
         <a href="/projects/2023/09/11/potion.html">WWC(WorldWide Chat)</a>
