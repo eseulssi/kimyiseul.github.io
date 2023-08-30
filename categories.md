@@ -23,6 +23,13 @@ permalink: /projects/
   </ul>
 </div>
   <h2 class = "center-text" id="wwc">WWC</h2>  
+    <ul class="post-list-by-taxonomy">
+      <li>
+        <a href="/projects/2023/09/11/potion.html">WWC(WorldWide Chat)</a>
+      </li>
+    </ul>
+
+
   <p class = "center-text">언어의 장벽 없이, 전 세계 누구와도 채팅이 가능한 새로운 플랫폼</p>
   <p class = "center-text">(2023.07 ~ 2023.09 개발 중)</p>
  
