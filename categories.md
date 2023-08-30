@@ -26,7 +26,7 @@ permalink: /projects/
   <h2 id="wwc">WWC</h2>  
     <ul>
       <li>
-        <a href="2023/09/11/potion.html">WWC(WorldWide Chat)</a>
+        <a href="/_site/projects/2023/09/11/poiton.html">WWC(WorldWide Chat)</a>
       </li>
     </ul>
 </div>
