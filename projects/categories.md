@@ -32,7 +32,7 @@ permalink: /projects/
 </div> -->
   <h2 class = "center-text" id="wwc">WWC</h2>  
   <p class = "center-text">언어의 장벽 없이, 전 세계 누구와도 채팅이 가능한 새로운 플랫폼</p>
-  <p class = "center-text">(2023.07 ~ 2023.09 개발 중)</p>
+  <p class = "center-text">(2023.07 ~ 2023.09)</p>
  
 [`github 바로가기`](https://github.com/bonugg/WorldChatProject)  
 [`notion 바로가기`](https://eseulssi.notion.site/WWC-worldwide-chat-8b3d1599f3ec40fa95bb730569adb5ab?pvs=4)<br/>
@@ -76,7 +76,7 @@ permalink: /projects/
 <p class = "center-text">&#128221; 프로젝트를 진행하며 느낀 점</p>
 
 - 프론트엔드와 백엔드로 나눠 작업하면서 백엔드 개발에만 집중할 수 있었지만, 초기에는 표출 값을 Postman을 통해 확인하는 작업이 생소했습니다. 그러나 React를 사용하는 프론트엔드와의 첫 협업이었기 때문에 코드 전달과 소통 방식을 어떻게 해야 서로가 편하게 협력할 수 있는지를 배우는 시간이었습니다.
-- 가장 큰 과제는 Node.js 대신 'Spring Boot'를 사용하여 WebSocket을 구현하는 것이었습니다. 레퍼런스 자료가 제한적이어서 특히 어려웠습니다. WebSocket의 기본 원리를 이해하려 노력하며 코드를 작성해 나갔고, 실시간 로직을 많은 기능에 적용했을 때의 이점을 이해하게 되었습니다. 또한, 여러 종류의 채팅에서 사용하는 웹소켓을 서로 충돌 없이 작동하도록 구현하는 것은 힘든 과제였지만, WebSocket과 STOMP 프로토콜을 이해한 덕분에 구현해낼 수 있었습니다.
+- 가장 큰 과제는 Node.js 대신 'Spring Boot'를 사용하여 WebSocket을 구현하는 것이었습니다. 레퍼런스 자료가 제한적이어서 특히 어려웠습니다. WebSocket의 기본 원리를 이해하려 노력하며 코드를 작성해 나갔고, 실시간 로직을 많은 기능에 적용했을 때의 이점을 이해하게 되었습니다.
 - 처음으로 ncloud의 object storage를 사용하여 파일 전송과 다운로드를 구현하였습니다. DB에 데이터를 저장하는 것 외에도 저장소 시스템에 대해 이해할 수 있었습니다.
 
 
