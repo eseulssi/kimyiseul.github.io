@@ -84,7 +84,7 @@ permalink: /projects/
 <hr>
 <h2 class = "center-text" id="potion">Potion Shop</h2>
 <p class = "center-text">초능력을 판매하는 포션 쇼핑몰 '포션이었다'</p>
-<p class = "center-text">(2023.06 ~ 2023.07 개발 완료)</p>
+<p class = "center-text">(2023.06 ~ 2023.07)</p>
 
 [`github 바로가기`](https://github.com/three-team1/main/tree/main)<br/>
 [`notion 바로가기`](https://eseulssi.notion.site/Potion-Shop-e167e0bc5d1742d8827ae734eee06ee7?pvs=4)<br/>
