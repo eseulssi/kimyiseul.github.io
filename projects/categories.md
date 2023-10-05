@@ -16,14 +16,14 @@ permalink: /projects/
       <span>Shelter Peace</span>
       <span class="taxonomy-count">location-based shelter notification</span>
     </a></li>
-    <li><a class="taxonomy" href="#wwc">
-      <span>WWC</span>
-      <span class="taxonomy-count">chatting platform</span>
-    </a></li>
   </ul>
 </div>
 <div class="taxonomies-wrapper">
  <ul class="taxonomies">
+    <li><a class="taxonomy" href="#wwc">
+      <span>WWC</span>
+      <span class="taxonomy-count">chatting platform</span>
+    </a></li>
     <li><a class="taxonomy" href="#potion">
       <span>Potion Shop</span>
       <span class="taxonomy-count">shopping mall</span>
@@ -36,7 +36,7 @@ permalink: /projects/
   <p class = "center-text">(2023.10 ~ 개발 중)</p>
 
 [`github 바로가기`](https://github.com/ShelterPeace/Peace_BackEnd)  
-
+</br>
   <h2 class = "center-text" id="wwc">WWC</h2>  
   <p class = "center-text">언어의 장벽 없이, 전 세계 누구와도 채팅이 가능한 새로운 플랫폼</p>
   <p class = "center-text">(2023.07 ~ 2023.09)</p>
