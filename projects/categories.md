@@ -32,10 +32,11 @@ permalink: /projects/
 </div>
 
   <h2 class = "center-text" id="shelter">Shelter Peace</h2>  
-  <p class = "center-text">실시간 위치 기반 재난 대피소 알림 어플</p>
+  <p class = "center-text">실시간 위치 기반 및 빅데이터를 활용한 재난 대비 및 대응 플랫폼</p>
   <p class = "center-text">(2023.10 ~ 개발 중)</p>
 
 [`github 바로가기`](https://github.com/ShelterPeace/Peace_BackEnd)  
+<br/>
 <br/>
 
   <h2 class = "center-text" id="wwc">WWC</h2>  
