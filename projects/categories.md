@@ -36,6 +36,13 @@ permalink: /projects/
   <p class = "center-text">(2023.10 ~ 개발 중)</p>
 
 [`github 바로가기`](https://github.com/ShelterPeace/Peace_BackEnd)  
+
+<p class = "center-text">&#128071; my role &#128071;</p> 
+
+<p class = "center-text">&#128204; 실시간 인구 흐름 예측</p>
+
+<p class = "center-text">&#128204; 뉴스 기사 크롤링</p>
+
 <br/>
 <br/>
 
