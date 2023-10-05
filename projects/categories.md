@@ -11,10 +11,10 @@ permalink: /projects/
 </style>
 
 <div class="taxonomies-wrapper">
-  <ul class="taxonomies">
+  <ul class="taxonomyy">
   <li><a class="taxonomy" href="#shelter">
       <span>Shelter Peace</span>
-      <span class="taxonomy-count">shelter notification</span>
+      <span class="taxonomy-count">location-based shelter notification app</span>
     </a></li>
   </ul>
 </div>
