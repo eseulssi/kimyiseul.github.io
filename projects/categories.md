@@ -45,6 +45,7 @@ permalink: /projects/
 
 <br/>
 <br/>
+<hr>
 
   <h2 class = "center-text" id="wwc">WWC</h2>  
   <p class = "center-text">언어의 장벽 없이, 전 세계 누구와도 채팅이 가능한 새로운 플랫폼</p>
