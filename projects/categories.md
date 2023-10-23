@@ -39,9 +39,12 @@ permalink: /projects/
 
 <p class = "center-text">&#128071; my role &#128071;</p> 
 
-<p class = "center-text">&#128204; 실시간 인구 흐름 예측</p>
 
 <p class = "center-text">&#128204; 뉴스 기사 크롤링</p>
+- 셀레니움을 이용한 네이버 뉴스 크롤링
+
+<p class = "center-text">&#128204; 실시간 인구 흐름 예측</p>
+- 서울 인구데이터 API 활용
 
 <br/>
 <br/>
