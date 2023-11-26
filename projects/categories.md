@@ -46,6 +46,10 @@ permalink: /projects/
 <p class = "center-text">&#128204; 실시간 인구 흐름 예측</p>
 - 서울 인구데이터 API 활용
 
+<p class = "center-text">&#128204; 소셜로그인</p>
+- 카카오 소셜로그인 API 활용
+
+
 <br/>
 <br/>
 <hr>
